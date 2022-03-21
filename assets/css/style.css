@@ -47,7 +47,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 ==================================================*/
 
 .logo img{
-    width:60%;
+    width:100%;
     height:auto;
 }
 .school-info{
